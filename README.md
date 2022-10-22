@@ -28,7 +28,7 @@ It was applied knowledge about forms, mandatory fields, types of inputs, such as
 
 ## Go to <a name = "go_to"></a>
 
-To access the site is simple, just click on the <a href = "https://teste.vercel.app">link</a>
+To access the site is simple, just click on the <a href = "https://mentorship-form.vercel.app">link</a>
 
 <br>
 
@@ -36,6 +36,6 @@ To access the site is simple, just click on the <a href = "https://teste.vercel.
 
 <br>
 
-![Preview](images/teste.png)
+![Preview](image/mentorship-form.vercel.app.png)
 
 <hr>
