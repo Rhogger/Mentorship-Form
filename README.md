@@ -36,6 +36,6 @@ To access the site is simple, just click on the <a href = "https://mentorship-fo
 
 <br>
 
-![Preview](image/mentorship-form.vercel.app.png)
+![Preview](assets/mentorship-form.vercel.app.png)
 
 <hr>
